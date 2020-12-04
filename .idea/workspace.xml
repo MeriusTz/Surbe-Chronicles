@@ -47,7 +47,6 @@
       <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
       <path value="$PROJECT_DIR$/vendor/symfony/deprecation-contracts" />
       <path value="$PROJECT_DIR$/vendor/psr/log" />
-      <path value="$PROJECT_DIR$/vendor/symfony/security-csrf" />
       <path value="$PROJECT_DIR$/vendor/psr/container" />
       <path value="$PROJECT_DIR$/vendor/symfony/mime" />
       <path value="$PROJECT_DIR$/vendor/psr/cache" />
@@ -67,7 +66,6 @@
       <path value="$PROJECT_DIR$/vendor/sensio/framework-extra-bundle" />
       <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
       <path value="$PROJECT_DIR$/vendor/symfony/cache" />
-      <path value="$PROJECT_DIR$/vendor/symfony/security-core" />
       <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
       <path value="$PROJECT_DIR$/vendor/symfony/http-client-contracts" />
       <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-icu" />
@@ -115,13 +113,8 @@
       <path value="$PROJECT_DIR$/vendor/webimpress/safe-writer" />
       <path value="$PROJECT_DIR$/vendor/composer" />
       <path value="$PROJECT_DIR$/vendor/symfony/var-exporter" />
-      <path value="$PROJECT_DIR$/vendor/symfony/security-bundle" />
-      <path value="$PROJECT_DIR$/vendor/symfony/security-guard" />
-      <path value="$PROJECT_DIR$/vendor/symfony/security-http" />
-      <path value="$PROJECT_DIR$/vendor/imagine/imagine" />
-      <path value="$PROJECT_DIR$/vendor/liip/imagine-bundle" />
-      <path value="$PROJECT_DIR$/vendor/symfony/templating" />
-      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/doctrine-fixtures-bundle" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/data-fixtures" />
     </include_path>
   </component>
   <component name="ProjectId" id="1l3TpuxCMsa4yZuDcRWjkGYnqGI" />
@@ -136,6 +129,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Controller" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -143,6 +137,9 @@
       <recent name="C:\Users\touze\OneDrive\Bureau\Docker\Surbe Chronicles\src\Controller" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\touze\OneDrive\Bureau\Docker\Surbe Chronicles\src\DataFixtures" />
+      <recent name="C:\Users\touze\OneDrive\Bureau\Docker\Surbe Chronicles\src\Repository" />
+      <recent name="C:\Users\touze\OneDrive\Bureau\Docker\Surbe Chronicles\src\Entity" />
       <recent name="C:\Users\touze\OneDrive\Bureau\Docker\Surbe Chronicles" />
       <recent name="C:\Users\touze\OneDrive\Bureau\Docker\Surbe Chronicles\public" />
     </key>
@@ -157,7 +154,7 @@
       <updated>1606824966458</updated>
       <workItem from="1606824971721" duration="39618000" />
       <workItem from="1606947838095" duration="4672000" />
-      <workItem from="1606996928499" duration="1718000" />
+      <workItem from="1606996928499" duration="18582000" />
     </task>
     <servers />
   </component>
@@ -177,6 +174,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="2666" y="425" key="#Inspections" timestamp="1607008634591">
+      <screen x="2560" y="203" width="1920" height="1080" />
+    </state>
+    <state x="2666" y="425" key="#Inspections/0.0.2560.1400/2560.203.1920.1080@2560.203.1920.1080" timestamp="1607008634591" />
     <state x="232" y="362" key="#Intentions" timestamp="1606857471328">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -189,18 +190,50 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="953" y="182" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400/2560.203.1920.1080@0.0.2560.1400" timestamp="1606901412613" />
+    <state x="1596" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1607086374867">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1596" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.2560.1400/2560.203.1920.1080@0.0.2560.1400" timestamp="1607086374867" />
+    <state x="3757" y="291" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.2560.1400/2560.203.1920.1080@2560.203.1920.1080" timestamp="1607002334229" />
+    <state x="1560" y="386" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1607086233665">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1560" y="386" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.2560.1400/2560.203.1920.1080@0.0.2560.1400" timestamp="1607086233665" />
+    <state x="3730" y="501" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.2560.1400/2560.203.1920.1080@2560.203.1920.1080" timestamp="1607005966929" />
     <state x="1044" y="420" key="RollbackChangesDialog" timestamp="1606988572928">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1044" y="420" key="RollbackChangesDialog/0.0.2560.1400/2560.203.1920.1080@0.0.2560.1400" timestamp="1606988572928" />
-    <state width="498" height="446" key="SwitcherDM" timestamp="1606918340184">
+    <state x="1194" y="356" key="SettingsEditor" timestamp="1607088391250">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
+    <state x="1194" y="356" key="SettingsEditor/0.0.2560.1400/2560.203.1920.1080@0.0.2560.1400" timestamp="1607088391250" />
+    <state x="2560" y="391" key="SettingsEditor/0.0.2560.1400/2560.203.1920.1080@2560.203.1920.1080" timestamp="1607009479772" />
+    <state width="498" height="398" key="SwitcherDM" timestamp="1607001482437">
+      <screen x="2560" y="203" width="1920" height="1080" />
+    </state>
     <state width="498" height="446" key="SwitcherDM/0.0.2560.1400/2560.203.1920.1080@0.0.2560.1400" timestamp="1606918340184" />
+    <state width="498" height="398" key="SwitcherDM/0.0.2560.1400/2560.203.1920.1080@2560.203.1920.1080" timestamp="1607001482437" />
+    <state x="2553" y="203" width="974" height="1087" key="dock-window-1" timestamp="1607001737644">
+      <screen x="2560" y="203" width="1920" height="1080" />
+    </state>
+    <state x="2553" y="203" width="974" height="1087" key="dock-window-1/0.0.2560.1400/2560.203.1920.1080@2560.203.1920.1080" timestamp="1607001737644" />
+    <state x="1253" y="155" width="674" height="881" key="dock-window-2" timestamp="1607031971878">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1253" y="155" width="674" height="881" key="dock-window-2/0.0.2560.1400/2560.203.1920.1080@2560.203.1920.1080" timestamp="1607031971878" />
+    <state x="1276" y="0" width="994" height="1201" key="dock-window-3" timestamp="1607086267192">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1276" y="0" width="994" height="1201" key="dock-window-3/0.0.2560.1400/2560.203.1920.1080@0.0.2560.1400" timestamp="1607086267192" />
     <state x="574" y="599" width="585" height="801" key="find.popup" timestamp="1606916287882">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="574" y="599" width="585" height="801" key="find.popup/0.0.2560.1400/2560.203.1920.1080@0.0.2560.1400" timestamp="1606916287882" />
+    <state x="3717" y="518" key="refactoring.ChangeSignatureDialog" timestamp="1607005232171">
+      <screen x="2560" y="203" width="1920" height="1080" />
+    </state>
+    <state x="3717" y="518" key="refactoring.ChangeSignatureDialog/0.0.2560.1400/2560.203.1920.1080@2560.203.1920.1080" timestamp="1607005232171" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
